@@ -1,21 +1,20 @@
 ![PEBMED](https://quem-somos.pebmed.com.br/images/logo-pebmed.png) 
-
 A PEBMED é uma startup carioca focada em conteúdo médico! Com aplicativos e notícias, temos como propósito ajudar a melhorar a saúde brasileira.
 Nossa missão é prover segurança e confiabilidade através de conteúdos médicos para tomada de decisão profissional.
 
-## Jobs
-
-Procurando por um trabalho que seja sua segunda casa? Venha fazer parte de uma Startup de tecnologia que quer melhorar a prática médica no Brasil!
-Este canal contém a divulgação de vagas e oportunidades de trabalho com a nossa empresa.
-Para mais informações, acesse as issues específicas.
-
-**A empresa**
+## A empresa
 
 - A PEBMED é uma startup carioca focada em conteúdo médico! Com aplicativos e notícias, temos como propósito ajudar a melhorar a saúde brasileira.
 - Nossa missão é prover segurança e confiabilidade através de conteúdos médicos para tomada de decisão profissional.
 - 20+ colaboradores
 - Ambiente amigável 
 - Profissionais jovens, focados e de alto nível técnico
+
+## Jobs
+
+Procurando por um trabalho que seja sua segunda casa? Venha fazer parte de uma Startup de tecnologia que quer melhorar a prática médica no Brasil!
+Este canal contém a divulgação de vagas e oportunidades de trabalho com a nossa empresa.
+Para mais informações, acesse as issues específicas.
 
 **Oportunidade de:**
 
