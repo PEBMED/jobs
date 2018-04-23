@@ -7,7 +7,7 @@ Nossa missão é prover segurança e confiabilidade através de conteúdos médi
 
 - A PEBMED é uma startup carioca focada em conteúdo médico! Com aplicativos e notícias, temos como propósito ajudar a melhorar a saúde brasileira.
 - Nossa missão é prover segurança e confiabilidade através de conteúdos médicos para tomada de decisão profissional.
-- 20+ colaboradores
+- 40+ colaboradores
 - Ambiente amigável 
 - Profissionais jovens, focados e de alto nível técnico
 
