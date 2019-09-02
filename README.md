@@ -3,7 +3,7 @@ A PEBMED é uma startup carioca focada em melhorar a saúde brasileira através 
 Procurando por um trabalho que seja sua segunda casa? Venha fazer parte de uma Startup de tecnologia que quer melhorar a prática médica no Brasil! Priorizamos qualidade e valor de negócio, sempre focados nas necessidades do usuário.
 Este canal contém a divulgação de vagas e oportunidades de trabalho com a nossa empresa.
 
-Deseja trabalhar conosco? Então escolha algum dos repositórios de base que utilizamos e participe do desafio!
+Deseja trabalhar conosco? Então escolha algum dos repositórios de base que utilizamos e participe dos nossos desafios!
 
 **Oportunidade de:**
 
