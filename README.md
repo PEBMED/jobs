@@ -13,10 +13,10 @@ Deseja trabalhar conosco? Então escolha algum dos repositórios de base que uti
 
 **Nossas oportunidades**
 
- :: Devops (SRE/Cloud)
- :: Cientista de dados
- :: Engenheiro de dados
- :: Desenvolvedor javascript (backend)
- :: Desenvolvedor javascript (frontend)
- :: Desenvolvedor Mobile iOS/Android
- :: Desenvolvedor Mobile (react native)
+ - Devops (SRE/Cloud)
+ - Cientista de dados
+ - Engenheiro de dados
+ - Desenvolvedor javascript (backend)
+ - Desenvolvedor javascript (frontend)
+ - Desenvolvedor Mobile iOS/Android
+ - Desenvolvedor Mobile (react native)
