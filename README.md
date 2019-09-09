@@ -20,3 +20,16 @@ Deseja trabalhar conosco? Então escolha algum dos repositórios de base que uti
  - Desenvolvedor javascript (frontend)
  - Desenvolvedor Mobile iOS/Android
  - Desenvolvedor Mobile (react native)
+
+**Processo seletivo**
+
+Conforme a habilidade esperada, o desenvolvedor deve seguir o desafio especificado no repositório
+
+Mobile
+- [React Native](https://github.com/PEBMED/react-native-base-architecture)
+- iOS
+Android
+Web Backend
+Node
+Web Frontend
+Vue
