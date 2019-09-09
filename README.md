@@ -25,7 +25,15 @@ Deseja trabalhar conosco? Então escolha algum dos repositórios de base que uti
 
 ## Processo seletivo na PEBMED 💻
 
-### Conforme a habilidade esperada, o desenvolvedor deve seguir o desafio especificado no repositório:
+### Instruções gerais 📝
+
+Você deverá criar um `fork` do projeto, e desenvolver em cima do seu `fork`. Ao finalizar a sua aplicação, crie um pull request no projeto de origem. Esperamos de você:
+
+* Respeitar a arquitetura base do projeto (organização do código e da estrutura);
+* Implementar testes unitários;
+* Documentação do projeto (readme).
+
+Conforme a habilidade esperada, o desenvolvedor deve seguir o desafio especificado no repositório:
 
 #### Mobile
 - [React Native](https://github.com/PEBMED/react-native-base-architecture)
@@ -38,14 +46,6 @@ Deseja trabalhar conosco? Então escolha algum dos repositórios de base que uti
 #### Web Frontend
 - [Vue](https://github.com/PEBMED/vue-base-architecture)
 - [React](https://github.com/PEBMED/react-base-architecture)
-
-### Instruções gerais 📝
-
-Você deverá criar um `fork` do projeto, e desenvolver em cima do seu `fork`. Ao finalizar a sua aplicação, crie um pull request no projeto de origem. Esperamos de você:
-
-* Respeitar a arquitetura base do projeto (organização do código e da estrutura);
-* Implementar testes unitários;
-* Documentação do projeto (readme);
 
 ### O que iremos avaliar 🤓
 
