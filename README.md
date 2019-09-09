@@ -7,13 +7,13 @@ Este canal contém a divulgação de vagas e oportunidades de trabalho com a nos
 
 Deseja trabalhar conosco? Então escolha algum dos repositórios de base que utilizamos e participe dos nossos desafios!
 
-### Nosso desafio
+### Nosso desafio 🤖
 
 - Apresentar, utilizar e melhorar práticas de desenvolvimento ágil em uma startup. Adotamos boas práticas de desenvolvimento como pair programming e code review;
 - Contribuir e colaborar com a equipe e clientes durante todo o processo de desenvolvimento de software. Valorizamos e contribuímos para o open source;
 - Ser parte de um ambiente aberto e não hierárquico onde se espera que todos colaborem dentro do projeto e nas direções da organização.
 
-### Nossas oportunidades
+### Nossas oportunidades 🙋🏿🙋
 
  - Devops (SRE/Cloud)
  - Cientista de dados
@@ -23,35 +23,35 @@ Deseja trabalhar conosco? Então escolha algum dos repositórios de base que uti
  - Desenvolvedor Mobile iOS/Android
  - Desenvolvedor Mobile (react native)
 
-### Processo seletivo
+## Processo seletivo na PEBMED
 
-#### Conforme a habilidade esperada, o desenvolvedor deve seguir o desafio especificado no repositório:
+### Conforme a habilidade esperada, o desenvolvedor deve seguir o desafio especificado no repositório:
 
-Mobile
+#### Mobile
 - [React Native](https://github.com/PEBMED/react-native-base-architecture)
 - [iOS](https://github.com/PEBMED/ios-base-architecture)
 - [Android](https://github.com/PEBMED/android-base-architecture)
 
-Web Backend
+#### Web Backend
 - [Node](https://github.com/PEBMED/node-base-architecture)
 
-Web Frontend
+#### Web Frontend
 - [Vue](https://github.com/PEBMED/vue-base-architecture)
 
-#### Instruções gerais
+### Instruções gerais 📝
 
-Você deverá criar um `fork` do projeto, e desenvolver em cima do seu `fork`. Esperamos de você:
+Você deverá criar um `fork` do projeto, e desenvolver em cima do seu `fork`. Ao finalizar a sua aplicação, crie um pull request no projeto de origem. Esperamos de você:
 
-* Respeitar a arquitetura base do projeto
-* Implementar testes unitários
-* Readme organizado
+* Respeitar a arquitetura base do projeto (organização do código e da estrutura);
+* Implementar testes unitários;
+* Documentação do projeto (readme);
 
-#### O que iremos avaliar:
+### O que iremos avaliar:
 
-- Histórico de commits do git
-- As instruções de como rodar o projeto (use o Readme)
-- Organização, semântica, estrutura, legibilidade, manutenibilidade do seu código
-- Alcance dos objetivos propostos
-- Componentização e extensibilidade dos componentes
+- Histórico de commits do git;
+- As instruções de como rodar o projeto (use o Readme);
+- Organização, semântica, estrutura, legibilidade e manutenibilidade do seu código;
+- Alcance dos objetivos propostos;
+- Componentização e extensibilidade dos componentes.
 
 Caso aprovado na prova técnica, o candidato é convidado para rodada de entrevistas conosco. E aí, animado para o desafio? Vamos com tudo 🚀
