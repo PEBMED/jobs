@@ -23,7 +23,7 @@ Deseja trabalhar conosco? Então escolha algum dos repositórios de base que uti
  - Desenvolvedor Mobile iOS/Android
  - Desenvolvedor Mobile (react native)
 
-## Processo seletivo na PEBMED
+## Processo seletivo na PEBMED 💻
 
 ### Conforme a habilidade esperada, o desenvolvedor deve seguir o desafio especificado no repositório:
 
@@ -37,6 +37,7 @@ Deseja trabalhar conosco? Então escolha algum dos repositórios de base que uti
 
 #### Web Frontend
 - [Vue](https://github.com/PEBMED/vue-base-architecture)
+- [React](https://github.com/PEBMED/react-base-architecture)
 
 ### Instruções gerais 📝
 
@@ -46,7 +47,7 @@ Você deverá criar um `fork` do projeto, e desenvolver em cima do seu `fork`. A
 * Implementar testes unitários;
 * Documentação do projeto (readme);
 
-### O que iremos avaliar:
+### O que iremos avaliar 🤓
 
 - Histórico de commits do git;
 - As instruções de como rodar o projeto (use o Readme);
