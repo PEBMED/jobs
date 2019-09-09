@@ -23,13 +23,17 @@ Deseja trabalhar conosco? Então escolha algum dos repositórios de base que uti
 
 **Processo seletivo**
 
-Conforme a habilidade esperada, o desenvolvedor deve seguir o desafio especificado no repositório
+Conforme a habilidade esperada, o desenvolvedor deve seguir o desafio especificado no repositório:
 
 Mobile
 - [React Native](https://github.com/PEBMED/react-native-base-architecture)
-- iOS
-Android
+- [iOS](https://github.com/PEBMED/ios-base-architecture)
+- [Android](https://github.com/PEBMED/android-base-architecture)
+
 Web Backend
-Node
+- [Node](https://github.com/PEBMED/node-base-architecture)
+
 Web Frontend
-Vue
+- [Vue](https://github.com/PEBMED/vue-base-architecture)
+
+Caso aprovado na prova técnica, o candidato é convidado para rodada de entrevistas conosco. E aí, animado para o desafio? Vamos com tudo 🚀
